@@ -10,4 +10,6 @@ My first changes to the readme.md
 20170813 nieuwe wijzigingen aan de unstaged file worden niet opnieuw aangemerkt. Pas na een commit komt een nieuwe wijziging wordt de file weer unstaged.
 20170813 wijziging gecommit. Is alleen toegevoegd aan de locale git repository. Nu nog pushen.
 20170813 na team - repository - push to upstream, komt de wijziging in de remote repository
+20170814 change to the readme in the master
+
 
